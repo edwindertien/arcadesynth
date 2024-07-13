@@ -6,6 +6,7 @@ The case started out as a laptop based arcade machine, but was converted to a mo
 
 ## design
 ### case
+![laptop arcade](case/laptoparcade.jpg)
 Files for the case design have been added. This is one big (cluttered) *.svg drawing and a picture for reference.
 ### gui
 The pcb (electronics) and arduino firmware for a gui module linking 16 inputs (switches, analogue potentiometers etc) to 8 outputs (triggers, modulation, cv (pitch), LFO)
