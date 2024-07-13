@@ -10,5 +10,5 @@ Files for the case design have been added. This is one big (cluttered) *.svg dra
 ### gui
 The pcb (electronics) and arduino firmware for a gui module linking 16 inputs (switches, analogue potentiometers etc) to 8 outputs (triggers, modulation, cv (pitch), LFO)
 ### furby
-The fabulously furry synthesiser module designed for FabAcademy 2024. Containing 3D print files for a small animatronic furby face, PCB (kicad) and software for RPi PICO
+The fabulously furry synthesiser module designed for [FabAcademy 2024](https://fabacademy.org/2024/labs/waag/students/edwin-dertien/project/). Containing 3D print files for a small animatronic furby face, PCB (kicad) and software for RPi PICO
 
