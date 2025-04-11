@@ -8,14 +8,14 @@ angle = 0.2;        // angle of section between eyes and beak
 lidangle = 0;      // opening of eyelids: 0..70
 beakangle = 30;     // opening of the beak: 0..30
 clearance = 0;    // joint clearance for print in place, for face only
-projection(cut = false){
-modularplate(23,3);
-}
+// projection(cut = false){
+// modularplate(23,3);
+// }
 //base();
 //translate([pupillary,0,0])rotate([lidangle,0,180])eyelids();
 //beakbottom();
 //tongue();
-//synth();
+synth();
 //eyeball_cutout();
 module eyelids(){
     color("grey")difference(){
